@@ -6,7 +6,7 @@
 - [misc](#misc)
 - [infra](#infra)
 
-## SSL/TLS
+## SSL-TLS
 
 * **ssllabs.com** ([ssllabs.com](https://www.ssllabs.com/)) performs an analysis of the configuration of a SSL web server
 * **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers
