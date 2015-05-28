@@ -1,8 +1,8 @@
 # sysadmin-toolbox
 
-- [SSL/TLS](#SSL/TLS)
-- [Mails](#Mails)
-- [DNS](#DNS)
+- [SSL/TLS](#ssl-tls)
+- [Mails](#mails)
+- [DNS](#dns)
 - [misc](#misc)
 - [infra](#infra)
 
