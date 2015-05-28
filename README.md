@@ -5,7 +5,7 @@
  - [tls-config](#tls-config)
 - [Mails](#mails)
 - [dns](#dns)
-- [misc](#misc)
+- [awesome list](#awesome-list)
 - [infra](#infra)
 
 ## adminsys
@@ -46,9 +46,12 @@
 * [zonemaster.net](http://zonemaster.net) : domain check
 * [dnssec-validator.cz](https://www.dnssec-validator.cz/) : DNSSEC/TLSA Validator plugin
 * [whatsmydns.net](https://www.whatsmydns.net) : global DNS propagation checker
+* [whois.domaintools.com](http://whois.domaintools.com/) - whois lookup / reverse whois lookup
 
-## misc
+## awesome list
 
+* **Awesome security** [github.com/sbilly](https://github.com/sbilly/awesome-security)
+* **Awesome pentest** [github.com/enaqx/](https://github.com/enaqx/awesome-pentest)
 * **Awesome Malware Analysis**: [github.com/rshipp](https://github.com/rshipp/awesome-malware-analysis)
 * **Awesome PHP**: [github.com/ziadoz](https://github.com/ziadoz/awesome-php)
 * **Awesome python**:[github.com/vinta](https://github.com/vinta/awesome-python)
