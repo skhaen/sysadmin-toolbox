@@ -2,7 +2,7 @@
 
 ## SSL/TLS
 
-* **ssllabs.com** ([ssllabs.com](https://www.ssllabs.com/)) performs a deep analysis of the configuration of any SSL web server on the public Internet <3<3<3
+* **ssllabs.com** ([ssllabs.com](https://www.ssllabs.com/)) performs an analysis of the configuration of a SSL web server
 * **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers.
 * **starttls.info** ([starttls.info](https://starttls.info)) - same thing, but for mail server
 
