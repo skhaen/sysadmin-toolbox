@@ -30,8 +30,8 @@
 
 ### tls config
 
-* * **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
-* [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS) (mozilla)
+* **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
+* Mozilla: [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS)
 
 ## Mails
 
