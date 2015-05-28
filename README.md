@@ -10,8 +10,8 @@
 
 ## adminsys
 
-* linux performance observability tools: [/linuxperf](http://www.brendangregg.com/linuxperf.html)
-* Bash Pitfalls - [http://bash.cumulonim.biz/BashPitfalls.html](bash.cumulonim.biz)
+* linux performance observability tools: [linuxperf](http://www.brendangregg.com/linuxperf.html)
+* Bash Pitfalls - [bash.cumulonim.biz](http://bash.cumulonim.biz/BashPitfalls.html)
 
 ## ssl-tls
 
