@@ -1,10 +1,17 @@
 # sysadmin-toolbox
 
-- [SSL/TLS](#ssl-tls)
+- [adminsys](#adminsys)
+- [ssl/tls](#ssl-tls)
+ - [tls-config](#tls-config)
 - [Mails](#mails)
-- [DNS](#dns)
+- [dns](#dns)
 - [misc](#misc)
 - [infra](#infra)
+
+## adminsys
+
+* linux performance observability tools: [/linuxperf](http://www.brendangregg.com/linuxperf.html)
+* Bash Pitfalls - [http://bash.cumulonim.biz/BashPitfalls.html](bash.cumulonim.biz)
 
 ## SSL-TLS
 
@@ -12,7 +19,7 @@
 * **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers
 * **starttls.info** ([starttls.info](https://starttls.info)) - same thing, but for mail server
 * **CipherScan** ([github.com/jvehent](https://github.com/jvehent/cipherscan)) tests the ordering of the SSL/TLS ciphers on a given target, for all major versions of SSL and TLS. It also extracts some certificates informations, TLS options, OCSP stapling and more.
-* **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
+
 * percentage of email encrypted for the top domains in terms of volume of email to and from Gmail: [Google/saferemail](https://www.google.com/transparencyreport/saferemail/#search=orange.fr)
 
 
@@ -22,6 +29,10 @@
  * [smtp](https://imirhil.fr/tls/smtp.html)
  * [xmpp](https://imirhil.fr/tls/xmpp.html)
 
+### tls config
+
+* * **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
+* [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS) (mozilla)
 
 ## Mails
 
