@@ -3,13 +3,13 @@
 ## SSL/TLS
 
 * **ssllabs.com** ([ssllabs.com](https://www.ssllabs.com/)) performs an analysis of the configuration of a SSL web server
-* * **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers
-* * **starttls.info** ([starttls.info](https://starttls.info)) - same thing, but for mail server
+* **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers
+* **starttls.info** ([starttls.info](https://starttls.info)) - same thing, but for mail server
 
 
 * **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
-* * **CipherScan** ([github.com/jvehent](https://github.com/jvehent/cipherscan)) tests the ordering of the SSL/TLS ciphers on a given target, for all major versions of SSL and TLS. It also extracts some certificates informations, TLS options, OCSP stapling and more.
-* * percentage of email encrypted for the top domains in terms of volume of email to and from Gmail: [Google/saferemail](https://www.google.com/transparencyreport/saferemail/#search=orange.fr)
+* **CipherScan** ([github.com/jvehent](https://github.com/jvehent/cipherscan)) tests the ordering of the SSL/TLS ciphers on a given target, for all major versions of SSL and TLS. It also extracts some certificates informations, TLS options, OCSP stapling and more.
+* percentage of email encrypted for the top domains in terms of volume of email to and from Gmail: [Google/saferemail](https://www.google.com/transparencyreport/saferemail/#search=orange.fr)
 
 * [Aeris](https://imirhil.fr)' works on SSL/TLS:
  * [websites](https://imirhil.fr/tls/)
