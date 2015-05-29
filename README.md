@@ -11,7 +11,9 @@
 ## adminsys
 
 * linux performance observability tools: [linuxperf](http://www.brendangregg.com/linuxperf.html)
+* Usual Debian Server Setup - [cloud.geek.nz](http://feeding.cloud.geek.nz/posts/usual-server-setup/)
 * Bash Pitfalls - [bash.cumulonim.biz](http://bash.cumulonim.biz/BashPitfalls.html)
+*  Hardening ssh Servers - [mozilla](https://wiki.mozilla.org/Security/Guidelines/OpenSSH#OpenSSH_server) / [cloud.geek.nz](http://feeding.cloud.geek.nz/posts/hardening-ssh-servers/) / [stribika](http://stribika.github.io/2015/01/04/secure-secure-shell.html)
 
 ## ssl-tls
 
