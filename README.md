@@ -7,8 +7,7 @@
 - [Mails](#mails)
 - [dns](#dns)
 - [awesome list](#awesome-list)
-- [CMS](#cms)
-- [infra](#infra)
+- [misc](#misc)
 
 ## adminsys
 
