@@ -4,7 +4,7 @@
 - [ssh](#ssh)
 - [ssl/tls](#ssl-tls)
 - [debian](#debian)
-- [Mails](#mails)
+- [mails](#mails)
 - [dns](#dns)
 - [awesome list](#awesome-list)
 - [misc](#misc)
