@@ -41,7 +41,7 @@
 * [Debian Packaging Tutorials](https://raphaelhertzog.com/debian-packaging/) par  Raphaël Hertzog
 * Usual Debian Server Setup - [cloud.geek.nz](http://feeding.cloud.geek.nz/posts/usual-server-setup/)
 
-## Mails
+## mails
 
 * **mxtoolbox** ([mxtoolbox.com](http://mxtoolbox.com/)) will list MX records for a domain (verify reverse DNS records, perform a simple Open Relay check and measure response time performance, check each MX record (IP Address) against 105 DNS based blacklists)
 * **anti-abuse.org** ([www.anti-abuse.org](http://www.anti-abuse.org/)) Instant Multi-RBL Check (Real-time BlackLists)
@@ -66,16 +66,19 @@
 * **Awesome Ansible**:[github.com/jdauphant](https://github.com/jdauphant/awesome-ansible)
 * [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 
-## CMS
+
+## misc
+
+### CMS
 
 * Drupal: [hardening](https://www.drupal.org/security/secure-configuration) / [security advisories](https://www.drupal.org/security)
 * Spip: [security screen](http://www.spip.net/en_article4201.html)
 * Wordpress: [hardening](http://codex.wordpress.org/Hardening_WordPress)
 
 
-## infra
+### infra
 
-### France
+#### France
 
 * **[Fr]** Le [test de degrouptest.com](http://www.degrouptest.com) permet d'avoir un aperçu rapide des offres Internet que vous pouvez avoir ainsi que les caractéristiques de votre ligne (ne pas oublier le *mode expert* pour avoir encore plus de détails)
 * **[Fr]** le [test d'éligibilité d'OVH](http://www.ovhtelecom.fr/adsl/eligibilite.xml) permet d'avoir de manière simple et rapidement toutes les informations qu'il vous faut : débits théoriques et réels de la ligne, distance du NRA, éligibilité VDSL...
