@@ -2,7 +2,7 @@
 
 - [adminsys](#adminsys)
 - [ssl/tls](#ssl-tls)
- - [tls-config](#tls-config)
+- [debian](#debian)
 - [Mails](#mails)
 - [dns](#dns)
 - [awesome list](#awesome-list)
@@ -21,19 +21,21 @@
 * **xmpp.net** ([xmpp.net](https://xmpp.net/)) - testing the security of the Jabber/XMPP servers
 * **starttls.info** ([starttls.info](https://starttls.info)) - same thing, but for mail server
 * **CipherScan** ([github.com/jvehent](https://github.com/jvehent/cipherscan)) tests the ordering of the SSL/TLS ciphers on a given target, for all major versions of SSL and TLS. It also extracts some certificates informations, TLS options, OCSP stapling and more.
-* percentage of email encrypted for the top domains in terms of volume of email to and from Gmail: [Google/saferemail](https://www.google.com/transparencyreport/saferemail/#search=orange.fr)
-
-
+* Mozilla: [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS)
+* **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
+*
 * [Aeris](https://imirhil.fr)' works on SSL/TLS:
  * [websites](https://imirhil.fr/tls/)
  * [porn](https://imirhil.fr/tls/porn.html)
  * [smtp](https://imirhil.fr/tls/smtp.html)
  * [xmpp](https://imirhil.fr/tls/xmpp.html)
 
-### tls config
+## debian
 
-* **[Fr]** **jeveuxhttps.fr** ([jeveuxhttps.fr](https://www.jeveuxhttps.fr)) pour vous aider à mettre en place du SSL/TLS pour vos sites web
-* Mozilla: [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS)
+* [mastering debian](https://raphaelhertzog.com/mastering-debian/) par Raphaël Hertzog
+* [Contributing to Debian](https://raphaelhertzog.com/contributing-to-debian/) par Raphaël Hertzog
+* [Debian Packaging Tutorials](https://raphaelhertzog.com/debian-packaging/) par  Raphaël Hertzog
+
 
 ## Mails
 
