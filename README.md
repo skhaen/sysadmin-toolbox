@@ -70,6 +70,7 @@
 
 ### CMS
 
+* [Remonter une attaque avec les logs](https://www.libwalk.so/2015/04/29/analyse-log.html) (Fr)
 * Drupal: [hardening](https://www.drupal.org/security/secure-configuration) / [security advisories](https://www.drupal.org/security)
 * Spip: [security screen](http://www.spip.net/en_article4201.html)
 * Wordpress: [hardening](http://codex.wordpress.org/Hardening_WordPress)
