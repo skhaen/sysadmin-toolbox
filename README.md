@@ -6,6 +6,7 @@
 - [Mails](#mails)
 - [dns](#dns)
 - [awesome list](#awesome-list)
+- [CMS](#cms)
 - [infra](#infra)
 
 ## adminsys
@@ -61,6 +62,12 @@
 * **Awesome python**:[github.com/vinta](https://github.com/vinta/awesome-python)
 * **Awesome Ansible**:[github.com/jdauphant](https://github.com/jdauphant/awesome-ansible)
 * [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+
+## CMS
+
+* Drupal: [hardening](https://www.drupal.org/security/secure-configuration) / [security advisories](https://www.drupal.org/security)
+* Spip: [security screen](http://www.spip.net/en_article4201.html)
+* Wordpress: [hardening](http://codex.wordpress.org/Hardening_WordPress)
 
 
 ## infra
