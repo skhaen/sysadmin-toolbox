@@ -6,6 +6,7 @@
 - [debian](#debian)
 - [mails](#mails)
 - [dns](#dns)
+- [web](#web)
 - [awesome list](#awesome-list)
 - [misc](#misc)
 
