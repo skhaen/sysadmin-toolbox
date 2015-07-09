@@ -55,6 +55,13 @@
 * [whatsmydns.net](https://www.whatsmydns.net) : global DNS propagation checker
 * [whois.domaintools.com](http://whois.domaintools.com/) - whois lookup / reverse whois lookup
 
+## web
+
+mirroring a website:
+* wget (see [fosswire.com/](http://fosswire.com/post/2008/04/create-a-mirror-of-a-website-with-wget/) or [guyrutenberg.com](http://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/)
+* [httrack](https://httrack.com)
+
+
 ## awesome list
 
 * **Awesome security** [github.com/sbilly](https://github.com/sbilly/awesome-security)
