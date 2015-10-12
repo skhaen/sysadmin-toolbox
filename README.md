@@ -7,6 +7,7 @@
 - [mails](#mails)
 - [dns](#dns)
 - [web](#web)
+- [backup](#backup)
 - [awesome list](#awesome-list)
 - [misc](#misc)
 
@@ -62,6 +63,10 @@ mirroring a website:
 * wget (see [fosswire.com/](http://fosswire.com/post/2008/04/create-a-mirror-of-a-website-with-wget/) or [guyrutenberg.com](http://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/)
 * [httrack](https://httrack.com)
 
+## backup
+
+if you don't want to backup everything, dont forget:
+* ssh, gpg, jabber and otr (.purple/), keypassx (*.kdb), 
 
 ## awesome list
 
