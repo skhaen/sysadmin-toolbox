@@ -73,13 +73,8 @@ if you don't want to backup everything, dont forget:
 * ssh, gpg, jabber and otr (.purple/), keypassx (*.kdb), 
 
 ## awesome list
+* meta-awesome list : [awesome.re](https://github.com/skhaen/sysadmin-toolbox/blob/master/rss.md)
 
-* **Awesome security** [github.com/sbilly](https://github.com/sbilly/awesome-security)
-* **Awesome pentest** [github.com/enaqx/](https://github.com/enaqx/awesome-pentest)
-* **Awesome Malware Analysis**: [github.com/rshipp](https://github.com/rshipp/awesome-malware-analysis)
-* **Awesome PHP**: [github.com/ziadoz](https://github.com/ziadoz/awesome-php)
-* **Awesome python**:[github.com/vinta](https://github.com/vinta/awesome-python)
-* **Awesome Ansible**:[github.com/jdauphant](https://github.com/jdauphant/awesome-ansible)
 * [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 
 
